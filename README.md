@@ -1,3 +1,21 @@
+1.Открыть архив в редакторе коде
+2.ввести в консоли npm i для установки пакетов зависимости
+3.написать npm start для запуска проекта
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
